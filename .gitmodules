@@ -8,6 +8,6 @@
 [submodule "PyGraphQL3"]
 	path = PyGraphQL3
 	url = https://github.com/SofiaTohmeGarnero/GraphQL_Apollo_Module3.git
-[submodule "GraphQL_Apollo_Module4"]
-	path = GraphQL_Apollo_Module4
+[submodule "PyGraphQL4"]
+	path = PyGraphQL4
 	url = https://github.com/SofiaTohmeGarnero/GraphQL_Apollo_Module4.git
