@@ -2,3 +2,6 @@
 [submodule "PyGraphQL1"]
 	path = PyGraphQL1
 	url = https://github.com/SofiaTohmeGarnero/GraphQL_Apollo_Module1.git
+[submodule "PyGraphQL2"]
+	path = PyGraphQL2
+	url = https://github.com/SofiaTohmeGarnero/GraphQL_Apollo_Module2.git
